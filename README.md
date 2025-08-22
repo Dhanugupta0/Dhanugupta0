@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://in.pinterest.com/pin/423690277463123917/" 
-       style="max-width:100%; height:auto;" />
+  <img height="323" src="https://i.pinimg.com/originals/ef/08/d1/ef08d117f320d1e142f79c4413e0a2bf.gif"  />
 </div>
-
 
 ###
 
