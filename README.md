@@ -3,67 +3,116 @@
        style="width:100%; height:auto;" />
 </div>
 
-###
+<br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dhanugupta0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:dhanugupta.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  <a href="mailto:dhanugupta.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-###
+<br/>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dhanugupta0.Dhanugupta0&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dhanugupta0" />
 </div>
 
-###
+<br/>
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋, I'm Dhanu</h1>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 👨‍💻 About Me
 
-###
+- 🎓 **3rd-year Engineering student @ IIIT Bhagalpur**
+- 🤖 Passionate about **Machine Learning, Computer Vision & NLP**
+- 💡 Building end-to-end **real-world ML projects**
+- 🌱 Currently learning **Deep Learning + Model Deployment**
+- 🎌 Learning Japanese casually
 
-<p align="left">I'm Dhanu Gupta<br><br>🔭 AI & ML enthusiast<br><br>📚 I'm currently learning Deep Learning, Python, and Japanese</p>
+---
 
-###
+### 🚀 Featured Projects (Pinned)
 
-<h3 align="left">🛠 Language and tools</h3>
+#### 🖼️ Image Captioning Model
+Generates natural language captions from images using CNN + LSTM.
+> Computer Vision • NLP • TensorFlow
 
-###
+#### 🌪️ Disaster Image Classification
+Classifies cyclone, wildfire, earthquake & flood visuals.
+> CNN • Model Evaluation • Confusion Matrix
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-</div>
+#### 📰 Fake News Detection (LIAR Dataset)
+Classifies statements as real/fake using textual features.
+> NLP • TF-IDF • Classification Metrics
 
-###
+#### 🧠 Next-Word Prediction (LSTM/GRU)
+Predicts the next word in a sentence using sequential models.
+> NLP • Language Modeling
 
-<h3 align="left">🔥   My Stats :</h3>
+#### 🔐 Phishing Website Detection
+Detects phishing URLs using supervised learning.
+> Feature Engineering • Classification
 
-###
+#### 📦 Amazon ML Challenge 2025
+Hands-on challenge notebook solving Amazon ML tasks.
+
+---
+
+### 🧠 What I'm Learning Right Now
+
+- LLM + Agentic AI
+- FastAPI + Docker for ML deployments
+- MLOps basics (CI/CD, model registry)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**
+> Python | C++
+
+**ML/AI:**
+> TensorFlow | Scikit-Learn | Pandas | NumPy
+
+**Tools:**
+> Jupyter | Git | Docker | AWS | Linux | Anaconda
+
+**CV/NLP Concepts:**
+> CNN • RNN • LSTM • GRU • TF-IDF 
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dhanugupta0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+<img src="https://streak-stats.demolab.com?user=Dhanugupta0&theme=algolia&hide_border=false&border_radius=5" height="190"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dhanugupta0&show_icons=true&theme=algolia" height="190" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanugupta0&layout=compact&theme=algolia" height="190" />
+
 </div>
 
-###
+---
+
+### 🎯 2025 Goals
+
+- Deploy 3 ML models to cloud
+- Win a Kaggle Bronze medal
+- Write 3 blog posts about ML intuition
+- Contribute to an open-source ML repo
+
+---
+
+<div align="center">
+  
+### ⚡ Always building. Always experimenting.
+Star ⭐ a repo if it helped you!
+
+</div>
