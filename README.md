@@ -30,9 +30,9 @@
 
 - 🎓 **3rd-year Engineering student @ IIIT Bhagalpur**
 - 🤖 Passionate about **Machine Learning, Computer Vision, NLP, LLM and Agentic AI**
-- 💡 Building end-to-end **real-world ML projects**
-- 🌱 Currently learning **Deep Learning + Model Deployment**
-- 🎌 Learning Japanese as Hobby
+- 💡 Deployed end-to-end **real-world AI/ML projects**
+- 🌱 Currently learning **LLM + Agentic AI**
+- 🎌 Studying Japanese as Hobby
 
 ---
 
