@@ -24,42 +24,15 @@
 
 <h1 align="center">Hey there 👋, I'm Dhanu</h1>
 
----
+
 
 ### 👨‍💻 About Me
 
 - 🎓 **3rd-year Engineering student @ IIIT Bhagalpur**
-- 🤖 Passionate about **Machine Learning, Computer Vision & NLP**
+- 🤖 Passionate about **Machine Learning, Computer Vision, NLP, LLM and Agentic AI**
 - 💡 Building end-to-end **real-world ML projects**
 - 🌱 Currently learning **Deep Learning + Model Deployment**
-- 🎌 Learning Japanese casually
-
----
-
-### 🚀 Featured Projects (Pinned)
-
-#### 🖼️ Image Captioning Model
-Generates natural language captions from images using CNN + LSTM.
-> Computer Vision • NLP • TensorFlow
-
-#### 🌪️ Disaster Image Classification
-Classifies cyclone, wildfire, earthquake & flood visuals.
-> CNN • Model Evaluation • Confusion Matrix
-
-#### 📰 Fake News Detection (LIAR Dataset)
-Classifies statements as real/fake using textual features.
-> NLP • TF-IDF • Classification Metrics
-
-#### 🧠 Next-Word Prediction (LSTM/GRU)
-Predicts the next word in a sentence using sequential models.
-> NLP • Language Modeling
-
-#### 🔐 Phishing Website Detection
-Detects phishing URLs using supervised learning.
-> Feature Engineering • Classification
-
-#### 📦 Amazon ML Challenge 2025
-Hands-on challenge notebook solving Amazon ML tasks.
+- 🎌 Learning Japanese as Hobby
 
 ---
 
@@ -73,17 +46,36 @@ Hands-on challenge notebook solving Amazon ML tasks.
 
 ### 🛠️ Tech Stack
 
-**Languages:**
-> Python | C++
+<div align="left">
 
-**ML/AI:**
-> TensorFlow | Scikit-Learn | Pandas | NumPy
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-Learn" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" />
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras" />
 
-**Tools:**
-> Jupyter | Git | Docker | AWS | Linux | Anaconda
+</div>
 
-**CV/NLP Concepts:**
-> CNN • RNN • LSTM • GRU • TF-IDF 
 
 ---
 
